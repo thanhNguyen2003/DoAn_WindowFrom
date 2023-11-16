@@ -1,0 +1,16 @@
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\obj\Debug\QuanLyDongPhuc.csproj.AssemblyReference.cache
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\obj\Debug\QuanLyDongPhuc.Home.resources
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\obj\Debug\QuanLyDongPhuc.Login.resources
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\obj\Debug\QuanLyDongPhuc.Properties.Resources.resources
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\obj\Debug\QuanLyDongPhuc.csproj.GenerateResource.cache
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\obj\Debug\QuanLyDongPhuc.csproj.CoreCompileInputs.cache
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\bin\Debug\QuanLyDongPhuc.exe.config
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\bin\Debug\QuanLyDongPhuc.exe
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\bin\Debug\QuanLyDongPhuc.pdb
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\obj\Debug\QuanLyDongPhuc.exe
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\obj\Debug\QuanLyDongPhuc.pdb
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\obj\Debug\QuanLyDongPhuc.NhanVien.resources
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\obj\Debug\QuanLyDongPhuc.PhongBan.resources
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\obj\Debug\QuanLyDongPhuc.DongPhuc.resources
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\obj\Debug\QuanLyDongPhuc.CapPhat.resources
+D:\C#\DoAn_LTWinDow\QuanLyDongPhuc\QuanLyDongPhuc\obj\Debug\QuanLyDongPhuc.ThongKeCapPhat.resources
